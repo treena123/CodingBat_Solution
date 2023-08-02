@@ -35,10 +35,9 @@ public class MapBullySolution {
 		        }else{
 		          result.put(each.getKey(), bVal);
 		        } 
-		    }else{
-		      result.put(each.getKey(), each.getValue());
-		    }
-		   
+		    }else {
+				result.put(each.getKey(), each.getValue());
+			}
 		  }
 		  
 		  if(!result.containsKey("b") && result.containsKey("a")){
