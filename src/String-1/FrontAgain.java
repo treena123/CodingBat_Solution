@@ -9,9 +9,9 @@ frontAgain("ed") → true
  */
 public boolean frontAgain(String str) {
         if(str.length()==2)
-        return true;
+            return true;
 
         if(str.length()<2)
-        return false;
+            return false;
         return (str.substring(0,2).equals(str.substring(str.length()-2, str.length()))) ? true: false;
         }

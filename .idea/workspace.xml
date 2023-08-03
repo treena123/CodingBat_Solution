@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e21b0440-ca4c-473a-bfca-518b8cfe99ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/String-1/Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/DeFrontSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/EndsLy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/HasBad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/LastChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/Left2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/MiddleThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/MiddleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/NTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/NonStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/Right2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/TheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/TwoChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String-1/WithoutEnd2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String-1/ExtraFront.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String-1/ExtraFront.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String-1/FrontAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String-1/FrontAgain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String-1/LastTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String-1/LastTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String-1/MinCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String-1/MinCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String-1/SeeColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String-1/SeeColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String-1/StartWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String-1/StartWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String-1/deFront.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String-1/AtFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String-1/without2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String-1/without2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TPEDBXzmP2RsNsBstJu9q0phut" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/trinapal/Documents/Interview_Prep/AlgoPractice/CodingBat_Solution",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e21b0440-ca4c-473a-bfca-518b8cfe99ce" name="Changes" comment="" />
+      <created>1690936195305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690936195305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

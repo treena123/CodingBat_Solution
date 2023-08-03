@@ -10,7 +10,7 @@ minCat("java", "Hello") → "javaello"
 
 public String minCat(String a, String b) {
         if(a.length() == b.length())
-        return a+b;
+            return a+b;
 
         int min = Math.min(a.length(),b.length());
 
